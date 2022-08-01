@@ -1,8 +1,13 @@
 body {
     color: black;
     text-align: center;
+<<<<<<< HEAD
+    font-family: Courier;
+    font-size: 10px;
+=======
     font-family: arial;
     font-size: 30px;
+>>>>>>> cabecera
     margin: 0;
     padding: 0;
     
